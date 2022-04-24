@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b57310bc-bc78-4915-afcc-5cbc5ed53f75": {
+      "ProjectGuid": "b57310bc-bc78-4915-afcc-5cbc5ed53f75",
+      "DisplayName": "BlazorShop.Server",
+      "ColorIndex": 0
+    },
+    "e9a0e92a-092f-414f-8d94-8cedfe8db87f": {
+      "ProjectGuid": "e9a0e92a-092f-414f-8d94-8cedfe8db87f",
+      "DisplayName": "BlazorShop.Client",
+      "ColorIndex": 1
+    },
+    "dbc0dcbe-5a63-4b99-972c-89b720206148": {
+      "ProjectGuid": "dbc0dcbe-5a63-4b99-972c-89b720206148",
+      "DisplayName": "BlazorShop.Shared",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

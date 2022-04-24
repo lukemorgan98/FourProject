@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShopTest\\BlazorShopTest.csproj": {}
+  },
+  "projects": {
+    "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShopTest\\BlazorShopTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShopTest\\BlazorShopTest.csproj",
+        "projectName": "BlazorShopTest",
+        "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShopTest\\BlazorShopTest.csproj",
+        "packagesPath": "C:\\Users\\lukem\\.nuget\\packages\\",
+        "outputPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShopTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lukem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
+                "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj"
+              },
+              "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj": {
+                "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj"
+              },
+              "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+                "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
+        "projectName": "BlazorShop.Client",
+        "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj",
+        "packagesPath": "C:\\Users\\lukem\\.nuget\\packages\\",
+        "outputPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lukem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+                "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Blazored.Toast": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Blazored.Typeahead": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.16, 5.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
+        "projectName": "BlazorShop.Server",
+        "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Server\\BlazorShop.Server.csproj",
+        "packagesPath": "C:\\Users\\lukem\\.nuget\\packages\\",
+        "outputPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lukem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj": {
+                "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Client\\BlazorShop.Client.csproj"
+              },
+              "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+                "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.63.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
+        "projectName": "BlazorShop.Shared",
+        "projectPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\BlazorShop.Shared.csproj",
+        "packagesPath": "C:\\Users\\lukem\\.nuget\\packages\\",
+        "outputPath": "C:\\College Work\\Year 4\\Project\\BlazorShop\\BlazorShop\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lukem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

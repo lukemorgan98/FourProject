@@ -1,0 +1,12 @@
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\bin\Debug\net5.0\BlazorShop.Shared.deps.json
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\bin\Debug\net5.0\BlazorShop.Shared.dll
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\bin\Debug\net5.0\ref\BlazorShop.Shared.dll
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\bin\Debug\net5.0\BlazorShop.Shared.pdb
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.AssemblyInfoInputs.cache
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.AssemblyInfo.cs
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.csproj.CoreCompileInputs.cache
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.dll
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\ref\BlazorShop.Shared.dll
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.pdb
+C:\College Work\Year 4\Project\BlazorShop\BlazorShop\Shared\obj\Debug\net5.0\BlazorShop.Shared.csproj.AssemblyReference.cache
